@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "nombre": "Audífonos inalámbricos",
+      "precio": 49.99,
+      "cantidadDisponible": 50
+    },
+    {
+      "id": 2,
+      "nombre": "Altavoz Bluetooth",
+      "precio": 79.99,
+      "cantidadDisponible": 30
+    },
+    {
+      "id": 3,
+      "nombre": "Cargador rápido USB-C",
+      "precio": 19.99,
+      "cantidadDisponible": 40
+    },
+    {
+      "id": 4,
+      "nombre": "Power Bank 10000mAh",
+      "precio": 29.99,
+      "cantidadDisponible": 20
+    },
+    {
+      "id": 5,
+      "nombre": "Teclado inalámbrico",
+      "precio": 39.99,
+      "cantidadDisponible": 60
+    },
+    {
+      "id": 6,
+      "nombre": "Ratón óptico USB",
+      "precio": 14.99,
+      "cantidadDisponible": 25
+    },
+    {
+      "id": 7,
+      "nombre": "Auriculares con cancelación de ruido",
+      "precio": 89.99,
+      "cantidadDisponible": 15
+    },
+    {
+      "id": 8,
+      "nombre": "Adaptador HDMI a VGA",
+      "precio": 9.99,
+      "cantidadDisponible": 70
+    },
+    {
+      "id": 9,
+      "nombre": "Cable de carga Lightning",
+      "precio": 12.99,
+      "cantidadDisponible": 45
+    },
+    {
+      "id": 10,
+      "nombre": "Lámpara LED USB",
+      "precio": 17.99,
+      "cantidadDisponible": 35
+    }
+]
