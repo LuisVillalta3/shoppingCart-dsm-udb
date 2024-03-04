@@ -28,7 +28,7 @@ object Menu {
 
         for (cartItem in carrito.cartItems) {
             println(
-                "| ${cartItem.id.toString().padEnd(3)} | ${cartItem.product.nombre.padEnd(39)} | ${Utils.formatCurrency(cartItem.product.precio).padEnd(8)} | ${cartItem.cantidad.toString().padEnd(10)} | ${Utils.formatCurrency(cartItem.subtotal).padEnd(12)} |"
+                "| ${cartItem.product.id.toString().padEnd(3)} | ${cartItem.product.nombre.padEnd(39)} | ${Utils.formatCurrency(cartItem.product.precio).padEnd(8)} | ${cartItem.cantidad.toString().padEnd(10)} | ${Utils.formatCurrency(cartItem.subtotal).padEnd(12)} |"
             )
         }
 

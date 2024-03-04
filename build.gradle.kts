@@ -17,6 +17,7 @@ dependencies {
     testImplementation("io.kotest:kotest-property:5.7.2")
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("org.apache.pdfbox:pdfbox:2.0.30")
+    implementation(kotlin("stdlib"))
 }
 
 tasks.test {
